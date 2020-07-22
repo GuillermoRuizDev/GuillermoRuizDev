@@ -1,6 +1,4 @@
 ### Hi there, I'm [Guillermo Ruiz!](https://GuillermoRuiz.dev) 👋. 
-
-
 <br/>
 <a href="https://twitter.com/GuillermoRuizA">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -14,9 +12,10 @@
 <a href="https://wa.me/51985007064">
   <img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-
+<br />
 <img align="right" width="100%!important" alt="GIF" src="https://github.com/GuillermoRuizDev/GuillermoRuizDev/blob/master/inteligencia%20artificial%202.gif" />
 <br />
+
 
 ### Hi 🙋‍♂️,
 ### I'm 23 years old Self-taught Full-Stack developer from Perú.
