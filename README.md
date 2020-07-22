@@ -17,7 +17,7 @@
 
 <--!<br />-->
 
-<img align="right" width="650px" alt="GIF" src="https://github.com/GuillermoRuizDev/GuillermoRuizDev/blob/master/inteligencia%20artificial.gif" />
+<img align="right" width="100%!important" alt="GIF" src="https://github.com/GuillermoRuizDev/GuillermoRuizDev/blob/master/inteligencia%20artificial%202.gif" />
 <br />
 
 ### Hi 🙋‍♂️,
