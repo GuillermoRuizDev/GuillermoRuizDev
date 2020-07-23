@@ -14,7 +14,7 @@
 </a>
 <br/>
 
-<img align="right" width="55%!important" alt="GIF" src="https://github.com/GuillermoRuizDev/GuillermoRuizDev/blob/master/ai%20imp.gif" />
+<img align="right" width="100%!important" alt="GIF" src="https://github.com/GuillermoRuizDev/GuillermoRuizDev/blob/master/ai%20imp.gif" />
 
 <br />
 
