@@ -14,12 +14,12 @@
   <img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <br/>
-<br/>
+
 <img align="right" width="50%!important" alt="GIF" src="https://github.com/GuillermoRuizDev/GuillermoRuizDev/blob/master/inteligencia%20artificial%202.gif" />
 
 <br />
 
-<br />
+
 
 #### About me 👋. 
 #### I'm 28 years Systems Engineer specialized in Web Developer and Machine Learning Student from Perú.
