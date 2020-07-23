@@ -13,13 +13,17 @@
 <a href="https://wa.me/51985007064">
   <img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<br />
-<br />
+<br/>
+<br/>
 <script>#img_ia p{style="display: grid;}</script>
 <p id="img_ia" align=center style="display: inline-block;"><img align="right" width="80%!important" alt="GIF" src="https://github.com/GuillermoRuizDev/GuillermoRuizDev/blob/master/inteligencia%20artificial%202.gif" /></p>
 
 <br />
 <br />
+
+<br />
+
+
 #### Hi there, I'm [Guillermo Ruiz!](https://GuillermoRuiz.dev) 👋. 
 #### I'm 23 years Systems Engineer specialized in Web Developer and Machine Learning Student from Perú.
 #### Tengo 23 años ingeniero de sistemas especializado en  Web Developer and Machine Learning de Perú.
