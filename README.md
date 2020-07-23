@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-<p id="img_ia" align=center style="display: inline-block;"><img align="right" width="80%!important" alt="GIF" src="https://github.com/GuillermoRuizDev/GuillermoRuizDev/blob/master/inteligencia%20artificial%202.gif" /></p>
+<p id="img_ia" align=center><img align="right" width="80%!important;display: inline-block;" alt="GIF" src="https://github.com/GuillermoRuizDev/GuillermoRuizDev/blob/master/inteligencia%20artificial%202.gif" /></p>
 
 <br />
 <br />
