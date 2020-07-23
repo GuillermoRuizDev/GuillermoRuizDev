@@ -19,8 +19,9 @@
 <br />
 
 #### About me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">. 
-#### I'm 28 years Systems Engineer specialized in Web Developer and now recently Machine Learning from Perú with more 
-
+<p align="center">
+#### I'm 28 years Systems Engineer specialized in Web Developer and now recently Machine Learning from Perú 
+</p>
 
 <br />
 
