@@ -15,7 +15,7 @@
 </a>
 <br/>
 
-<img align="right" width="50%!important" alt="GIF" src="https://github.com/GuillermoRuizDev/GuillermoRuizDev/blob/master/inteligencia%20artificial%202.gif" />
+<img align="right" width="60%!important" alt="GIF" src="https://github.com/GuillermoRuizDev/GuillermoRuizDev/blob/master/inteligencia%20artificial%202.gif" />
 
 <br />
 
