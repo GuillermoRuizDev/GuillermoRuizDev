@@ -13,21 +13,15 @@
   <img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <br/>
-
+<br />
 <img align="right" width="100%!important" alt="GIF" src="https://github.com/GuillermoRuizDev/GuillermoRuizDev/blob/master/ai%20imp.gif" />
 
 <br />
 
+#### About me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">. 
+#### I'm 28 years Systems Engineer specialized in Web Developer and now recently Machine Learning from Perú with more 
 
 
-#### About me 👋. 
-#### I'm 28 years Systems Engineer specialized in Web Developer and Machine Learning Student from Perú.
-#### Tengo 28 años ingeniero de sistemas especializado en  Web Developer and Machine Learning de Perú.
-
-
-
-<br />
-<br />
 <br />
 
 
