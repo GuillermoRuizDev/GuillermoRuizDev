@@ -15,7 +15,8 @@
 </a>
 <br />
 <br />
-<p align=center><img align="right" width="80%!important" alt="GIF" src="https://github.com/GuillermoRuizDev/GuillermoRuizDev/blob/master/inteligencia%20artificial%202.gif" /></p>
+<script>#img_ia p{style="display: grid;}</script>
+<p id="img_ia" align=center style="display: inline-block;"><img align="right" width="80%!important" alt="GIF" src="https://github.com/GuillermoRuizDev/GuillermoRuizDev/blob/master/inteligencia%20artificial%202.gif" /></p>
 
 <br />
 <br />
