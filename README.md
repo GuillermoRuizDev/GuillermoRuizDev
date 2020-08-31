@@ -20,7 +20,7 @@
 
 #### About me 
 <p align="center">
- I'm 28 years Systems Engineer specialized in Web Developer and now recently Machine Learning from Perú 
+ I'm 28 years Systems Engineer specialized in Web Developer and recently Machine Learning from Perú 
 </p>
 
 <br />
